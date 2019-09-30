@@ -1,7 +1,4 @@
----
-id: presets
-title: Presets
----
+
 
 Don't want to assemble your own set of plugins? No problem! Presets can act as an array of Babel plugins or even a sharable [`options`](options.md) config.
 
